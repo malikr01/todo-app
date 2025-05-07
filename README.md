@@ -1,3 +1,4 @@
+MEHMET ALİ KARACA , malikrc01@gmail.com
 #  To-Do App (FastAPI + JWT Authentication)
 
 Bu proje, FastAPI kullanılarak geliştirilmiş, JWT tabanlı kimlik doğrulama sistemi içeren basit bir To-Do (Yapılacaklar) uygulamasıdır.
